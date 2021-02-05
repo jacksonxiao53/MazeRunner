@@ -1,5 +1,6 @@
 # MazeRunner
 By Jackson Xiao and Shirley Jin
+
 A multiplayer board game that replicates a maze.
 
 Objective:
